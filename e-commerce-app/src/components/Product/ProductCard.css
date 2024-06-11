@@ -1,0 +1,11 @@
+.productCard{
+    border: 1px solid black;
+    width: 300px; 
+    height: 300px;
+}
+
+.productCard .btn{
+  margin-bottom: 10px;
+  padding: 10px 40px;
+ 
+}
