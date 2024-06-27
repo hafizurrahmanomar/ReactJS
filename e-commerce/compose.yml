@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 version: '3.8'
+=======
+
+>>>>>>> 172e670bb5f93e459b718db341e3dd2a34895a8b
 
 services:
   app:
